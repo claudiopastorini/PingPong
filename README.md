@@ -2,7 +2,7 @@
 
 This repository contains all information regarding the code of [Seeduino LoRaWAN](https://www.seeedstudio.com/Seeeduino-LoRaWAN-p-2780.html) and [Adafruit Feather M0 Radio with LoRa Radio Module](https://www.adafruit.com/product/3178) for the PingPong hands-on example.
 
-The example is a simple Ping Pong application with two different **LoRa** boards communicate each other. One board is the **Adafruit Feather M0 with LoRa Radio module** the other one is the **Seeduino LoRaWAN**. Both boards use the same Arduino sketch, the first using the **[RadioHead Driver]**(http://www.airspayce.com/mikem/arduino/RadioHead/), the other one instead use **AT commands over serial communication**.
+The example is a simple Ping Pong application with two different **LoRa** boards communicate each other. One board is the **Adafruit Feather M0 with LoRa Radio module** the other one is the **Seeduino LoRaWAN**. Both boards use the same Arduino sketch, the first using the **[RadioHead Driver](http://www.airspayce.com/mikem/arduino/RadioHead/)**, the other one instead use **AT commands over serial communication**.
 
 ## Instructions
 
